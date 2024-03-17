@@ -1,0 +1,19 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 100vh;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: lato-light;
+  margin: 294px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0;
+}@font-face {
+  font-family: 'lato-light';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/lato-light.ttf);
+}
